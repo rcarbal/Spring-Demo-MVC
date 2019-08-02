@@ -27,6 +27,13 @@
 				
 				<br><br>
 				
+				Java <form:radiobutton path="favoriteLanguage" value="Java" />
+				C# <form:radiobutton path="favoriteLanguage" value="C#" />
+				Python <form:radiobutton path="favoriteLanguage" value="Python" />
+				Ruby <form:radiobutton path="favoriteLanguage" value="Ruby" />
+				
+				<br><br>
+				
 				<input type="submit" value="submit" />
 			
 			</form:form>
